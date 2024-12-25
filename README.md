@@ -5,26 +5,27 @@ This repo contains all the configuration and documentation for my homelab. I beg
 # Hardware
 
 - Raspberry Pi 3 Model B
+- ThinkPad P1
 
 # Tooling
 
-- DietPi
-- Adguard Home
+- Docker
+- Plex
 
 # Goals
 
-- Upgrade Router/Modem
-- Run Prometheus and Grafana
-- Have Grafana dashboard available at a URL
-  - Learn about Ingress
-  - Local DNS
-- Replace Google Photos
-- Create a media server for streaming
-- Utilize AdGuard Home for DNA
+- [ ]Upgrade Router/Modem
+- [ ] Run Prometheus and Grafana
+- [ ] Have Grafana dashboard available at a URL
+  - [ ] Learn about Ingress
+  - [ ] Local DNS
+- [ ] Replace Google Photos
+- [x] Create a media server for streaming
+- [ ] Utilize AdGuard Home for DNS
   - Raspberry Pi
   - [DietPi](https://dietpi.com/)
-- Run [Linkding](https://github.com/sissbruecker/linkding) for Bookmark management
-- Run [Calibre](https://github.com/kovidgoyal/calibre) for ebook management
-- Run [Home Page](https://www.youtube.com/watch?v=mC3tjysJ01)
-- Everything should run with GitOps
+- [ ] Run [Linkding](https://github.com/sissbruecker/linkding) for Bookmark management
+- [ ] Run [Calibre](https://github.com/kovidgoyal/calibre) for ebook management
+- [ ] Run [Home Page](https://www.youtube.com/watch?v=mC3tjysJ01)
+- [ ] Everything should run with GitOps
   - Flux

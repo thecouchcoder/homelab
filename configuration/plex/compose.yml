@@ -1,0 +1,15 @@
+services:
+  plex:
+    container_name: plex
+    image: plexinc/pms-docker
+    restart: unless-stopped
+    environment:
+      - PLEX_UID=1000
+      - PLEX_GID=1000
+      - TZ=America/Chicago
+      - PLEX_CLAIM=${PLEX_CLAIM_TOKEN}
+    network_mode: host
+    volumes:
+      - ${PLEX_PATH}/config:/config
+      - ${PLEX_PATH}/transcode:/transcode
+      - ${PLEX_PATH}/media:/data
