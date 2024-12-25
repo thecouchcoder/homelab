@@ -11,10 +11,11 @@ This repo contains all the configuration and documentation for my homelab. I beg
 
 - Docker
 - Plex
+- Hoarder
 
 # Goals
 
-- [ ]Upgrade Router/Modem
+- [ ] Upgrade Router/Modem
 - [ ] Run Prometheus and Grafana
 - [ ] Have Grafana dashboard available at a URL
   - [ ] Learn about Ingress
@@ -29,3 +30,8 @@ This repo contains all the configuration and documentation for my homelab. I beg
 - [ ] Run [Home Page](https://www.youtube.com/watch?v=mC3tjysJ01)
 - [ ] Everything should run with GitOps
   - Flux
+- [X] Hoarder
+  - [ ] Ollama integration
+- [ ] Tailscale VPN for accessing self hosted resources
+- [ ] Static IP Address
+- [ ] Local DNS name
