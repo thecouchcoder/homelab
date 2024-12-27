@@ -1,0 +1,14 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/settings/
+title: homelab
+background: 
+  image: https://images.unsplash.com/photo-1502790671504-542ad42d5189
+  blur: sm
+  saturate: 80
+  brightness: 100
+  opacity: 80
+
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey

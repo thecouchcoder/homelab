@@ -27,7 +27,8 @@ This repo contains all the configuration and documentation for my homelab. I beg
   - [DietPi](https://dietpi.com/)
 - [ ] Run [Linkding](https://github.com/sissbruecker/linkding) for Bookmark management
 - [ ] Run [Calibre](https://github.com/kovidgoyal/calibre) for ebook management
-- [ ] Run [Home Page](https://www.youtube.com/watch?v=mC3tjysJ01)
+- [X] Run [Home Page](https://www.youtube.com/watch?v=mC3tjysJ01)
+  - [ ] Automatic Service Discovery
 - [ ] Everything should run with GitOps
   - Flux
 - [X] Hoarder

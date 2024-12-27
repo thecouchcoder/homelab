@@ -8,6 +8,8 @@ services:
       - PLEX_GID=1000
       - TZ=America/Chicago
       - PLEX_CLAIM=${PLEX_CLAIM_TOKEN}
+    env_file:
+      - ../.env
     network_mode: host
     volumes:
       - ${PLEX_PATH}/config:/config

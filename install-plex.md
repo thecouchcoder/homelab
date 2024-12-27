@@ -8,10 +8,7 @@ I used [environment variables in docker compose](https://docs.docker.com/compose
 
 You can use `docker compose --env-file=../.env config` with the .env file path to ensure your .env file is being used correctly.
 
-This error can be fixed with the following command
-```
-Error response from daemon: error gathering device information while adding custom device "/dev/dri": no such file or directory
-```
-`sudo mkdir -p ~/dev/dri`
+I also changed the permissions of the media folder, so I didn't need root access to upload media.
+
 # Commands
 `docker compose --env-file=../.env up -d`
