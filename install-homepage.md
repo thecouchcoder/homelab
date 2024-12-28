@@ -11,3 +11,6 @@ I setup both Plex and Hoarder services.
 I wanted to show the Docker container status on homepage, so I followed [the instructions to setup a Docker socket proxy](https://gethomepage.dev/configs/docker/#using-docker-socket-proxy).  I was not sure how to reference the container names that are started up in compose, so I played around with [the usage instructions](https://github.com/Tecnativa/docker-socket-proxy/blob/master/README.md#usage) for docker socket proxy.  This led me to connecting my DOCKER_HOST to the running container and doing `docker container ps`, which showed the correct container names.  The format is `{service name}-{container name}`.
 
 To connect the Plex widget I exec'd into the Plex docker container and grabbed the server token for my API Key at this location `$PLEX_HOME/Library/Application Support/Plex Media Server/Preferences.xml`
+
+# Troubleshooting
+To use an [environment variable in the widget config](https://github.com/gethomepage/homepage/discussions/1782) it must start with the keyword `HOMEPAGE_VAR`.

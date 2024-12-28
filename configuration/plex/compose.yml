@@ -12,6 +12,6 @@ services:
       - ../.env
     network_mode: host
     volumes:
-      - ${PLEX_PATH}/config:/config
-      - ${PLEX_PATH}/transcode:/transcode
-      - ${PLEX_PATH}/media:/data
+      - /opt/stacks/plex/config:/config
+      - /opt/stacks/plex/transcode:/transcode
+      - /opt/stacks/plex/media:/data

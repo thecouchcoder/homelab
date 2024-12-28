@@ -12,3 +12,6 @@ I also changed the permissions of the media folder, so I didn't need root access
 
 # Commands
 `docker compose --env-file=../.env up -d`
+
+# Troubleshooting
+The Plex web UI would not load when I tried to setup homepage.  [Fixing the permissions](https://www.reddit.com/r/unRAID/comments/aj7zom/comment/eeuk804/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) got it working again

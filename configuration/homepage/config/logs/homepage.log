@@ -906,3 +906,614 @@
 ]
 [2024-12-27T18:51:01.206Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
 [2024-12-27T18:51:01.207Z] error: undefined
+[2024-12-27T19:02:17.182Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-27T19:02:17.184Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-27T19:02:17.185Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-27T19:02:17.187Z] error: undefined
+[2024-12-27T19:02:23.324Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-27T19:02:23.327Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-27T19:02:23.328Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-27T19:02:23.330Z] error: undefined
+[2024-12-27T19:02:27.525Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-27T19:02:27.526Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-27T19:02:27.526Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-27T19:02:27.527Z] error: undefined
+[2024-12-27T19:02:28.756Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-27T19:02:28.757Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-27T19:02:28.757Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-27T19:02:28.757Z] error: undefined
+[2024-12-27T19:02:34.387Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-27T19:02:34.388Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-27T19:02:34.389Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-27T19:02:34.392Z] error: undefined
+[2024-12-27T19:02:44.180Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-27T19:02:44.181Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-27T19:02:44.181Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-27T19:02:44.181Z] error: undefined
+[2024-12-27T19:02:48.198Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-27T19:02:48.200Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-27T19:02:48.201Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-27T19:02:48.203Z] error: undefined
+[2024-12-28T00:16:23.162Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:16:23.162Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:16:23.163Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:16:23.163Z] error: undefined
+[2024-12-28T00:16:33.355Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:16:33.357Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:16:33.358Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:16:33.359Z] error: undefined
+[2024-12-28T00:16:48.406Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:16:48.407Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:16:48.408Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:16:48.410Z] error: undefined
+[2024-12-28T00:17:02.868Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:17:02.869Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:17:02.869Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:17:02.869Z] error: undefined
+[2024-12-28T00:17:07.932Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:17:07.933Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:17:07.933Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:17:07.933Z] error: undefined
+[2024-12-28T00:17:08.584Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:17:08.584Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:17:08.585Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:17:08.585Z] error: undefined
+[2024-12-28T00:17:15.563Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:17:15.564Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:17:15.564Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:17:15.564Z] error: undefined
+[2024-12-28T00:17:23.110Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:17:23.110Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:17:23.110Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:17:23.110Z] error: undefined
+[2024-12-28T00:17:25.622Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:17:25.623Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:17:25.623Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:17:25.624Z] error: undefined
+[2024-12-28T00:17:45.858Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:17:45.860Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:17:45.862Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:17:45.863Z] error: undefined
+[2024-12-28T00:18:08.995Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:18:08.997Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:18:08.998Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:18:08.999Z] error: undefined
+[2024-12-28T00:18:14.036Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:18:14.037Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:18:14.037Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:18:14.037Z] error: undefined
+[2024-12-28T00:19:05.542Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:19:05.544Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:19:05.545Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:19:05.546Z] error: undefined
+[2024-12-28T00:19:38.326Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:19:38.327Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:19:38.327Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:19:38.328Z] error: undefined
+[2024-12-28T00:19:44.442Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:19:44.444Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:19:44.445Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:19:44.446Z] error: undefined
+[2024-12-28T00:24:12.314Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:24:12.314Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:24:12.315Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:24:12.315Z] error: undefined
+[2024-12-28T00:24:23.390Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T00:24:23.390Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T00:24:23.390Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T00:24:23.391Z] error: undefined
+[2024-12-28T01:02:29.249Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T01:02:29.250Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T01:02:29.250Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T01:02:29.250Z] error: undefined
+[2024-12-28T01:02:35.168Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T01:02:35.169Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T01:02:35.169Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T01:02:35.169Z] error: undefined
+[2024-12-28T01:59:38.988Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T01:59:38.989Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T01:59:38.989Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T01:59:38.989Z] error: undefined
+[2024-12-28T01:59:49.815Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T01:59:49.816Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T01:59:49.817Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T01:59:49.819Z] error: undefined
+[2024-12-28T02:01:24.974Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:01:24.974Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:01:24.975Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:01:24.975Z] error: undefined
+[2024-12-28T02:01:30.977Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:01:30.978Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:01:30.979Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:01:30.980Z] error: undefined
+[2024-12-28T02:13:49.304Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:13:49.304Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:13:49.305Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:13:49.306Z] error: undefined
+[2024-12-28T02:13:59.943Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:13:59.945Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:13:59.946Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:13:59.947Z] error: undefined
+[2024-12-28T02:14:57.903Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:14:57.904Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:14:57.904Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:14:57.904Z] error: undefined
+[2024-12-28T02:15:09.002Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:15:09.004Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:15:09.005Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:15:09.006Z] error: undefined
+[2024-12-28T02:15:22.321Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:15:22.321Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:15:22.322Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:15:22.322Z] error: undefined
+[2024-12-28T02:15:32.901Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:15:32.902Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:15:32.902Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:15:32.903Z] error: undefined
+[2024-12-28T02:34:03.946Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:34:03.948Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:34:03.948Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:34:03.949Z] error: undefined
+[2024-12-28T02:34:10.188Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:34:10.189Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:34:10.189Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:34:10.190Z] error: undefined
+[2024-12-28T02:37:03.449Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:37:03.450Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:37:03.450Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:37:03.452Z] error: undefined
+[2024-12-28T02:37:08.764Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:37:08.765Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:37:08.766Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:37:08.767Z] error: undefined
+[2024-12-28T02:37:10.200Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:37:10.201Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:37:10.201Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:37:10.202Z] error: undefined
+[2024-12-28T02:37:16.177Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:37:16.178Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:37:16.178Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:37:16.178Z] error: undefined
+[2024-12-28T02:41:07.448Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:41:07.449Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:41:07.449Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:41:07.450Z] error: undefined
+[2024-12-28T02:41:12.808Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:41:12.808Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:41:12.808Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:41:12.809Z] error: undefined
+[2024-12-28T02:41:32.839Z] error: <httpProxy> Error calling http://localhost:32400/status/sessions...
+[2024-12-28T02:41:32.841Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+]
+[2024-12-28T02:41:32.841Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2024-12-28T02:41:32.843Z] error: undefined
+[2024-12-28T02:42:06.312Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:42:06.314Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:42:10.368Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:42:16.139Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:42:19.127Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:42:21.185Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:42:27.209Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:42:32.253Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:42:37.863Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:42:42.898Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:42:48.502Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:42:53.525Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:43:20.662Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:43:25.679Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:43:31.313Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:43:36.363Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:43:42.285Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:43:47.316Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:43:52.987Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:43:58.755Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:44:03.791Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:44:10.659Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:44:10.664Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:44:14.519Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:44:19.440Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:48:41.608Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:48:44.432Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:48:50.005Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:48:55.055Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:49:01.482Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:49:11.614Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:49:11.617Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:49:16.272Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:49:55.887Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:49:55.896Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:50:00.132Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:50:06.191Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:50:11.208Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:50:17.256Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:55:02.343Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:55:02.344Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:55:06.816Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:55:12.584Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:55:17.626Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:55:23.856Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:55:28.900Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:55:51.309Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:55:54.366Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:55:54.613Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:56:00.307Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:56:05.350Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:56:09.724Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:56:09.728Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:56:14.269Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:56:15.486Z] error: <dockerStatusService> Error: getaddrinfo ENOTFOUND dockerproxy
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+[2024-12-28T02:56:15.496Z] error: <dockerStatusService> Error: getaddrinfo ENOTFOUND dockerproxy
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+[2024-12-28T02:56:15.555Z] error: <service-helpers> Error getting services from Docker server 'docker-proxy': Error: getaddrinfo ENOTFOUND dockerproxy
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'dockerproxy'
+}
+[2024-12-28T02:57:31.455Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:58:46.587Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:58:46.592Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:58:50.025Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:58:55.821Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
+[2024-12-28T02:59:00.864Z] error: <plexProxyHandler> HTTP 401 communicating with Plex. Data: <html><head><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>

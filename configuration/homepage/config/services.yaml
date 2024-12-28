@@ -5,17 +5,17 @@
 - Services:
     - Plex:
         icon: plex.png
-        href: http://localhost/
+        href: http://192.168.0.121:32400/web
         description: Media Server
         server: docker-proxy
         container: plex
         widget:
             type: plex
-            url: http://localhost:32400
-            key: ${PLEX_SERVER_TOKEN} # see https://www.plexopedia.com/plex-media-server/general/plex-token/
+            url: http://192.168.0.121:32400
+            key: {{HOMEPAGE_VAR_PLEX_SERVER_TOKEN}} # see https://www.plexopedia.com/plex-media-server/general/plex-token/
     - Hoarder:
         icon: hoarder.png
-        href: http://localhost:3000
+        href: http://192.168.0.121:3000
         description: Read it later app
         server: docker-proxy
         container: hoarder-web-1
